@@ -1,4 +1,4 @@
-package com.xxxx.数组;
+package com.xxxx.数组.利用归并排序;
 
 import java.util.Scanner;
 
